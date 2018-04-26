@@ -1,4 +1,4 @@
 {"keys": ["name", "start", "length", "trackIndex"],"annots": 
     [{"chr": "1", "annots": [
-        ["rs1", 43394887,1, 1], 
+        ["OMIM: 606777", 43394887,1, 1], 
         ["rs25", 156848968, 1, 2] ]}]}
