@@ -1,6 +1,6 @@
 {"keys": ["name", "start", "length", "trackIndex"], "annots": [
     {"chr": "1", "annots": [["rs1", 1, 0, 1], 
-        ["rs25", 5974955, 0, 2], 
+        ["OMIM:606777,Dominant,Have the Disease", 43394887, 0, 0], 
         ["rs49", 11949909, 0, 1], 
         ["rs73", 17924863, 0, 1], 
         ["rs97", 23899817, 0, 1], 
