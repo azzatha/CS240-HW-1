@@ -1,7 +1,7 @@
 {"keys": ["name", "start", "length", "trackIndex"], "annots": [
     {"chr": "1", "annots": [["rs1", 1, 0, 1], 
         ["av3", 5974955, 0, 2], 
-        ["ab49", 11949909, 0, 1], 
+        ["ab49, MOI:Dominant, Have the Disease", 11949909, 0, 1], 
         ["rs73", 17924863, 0, 1], 
         ["rs97", 23899817, 0, 1], 
         ["rs121", 29874771, 0, 1],  
