@@ -1,2 +1,5 @@
-{"keys": ["name", "start", "length", "trackIndex"], "annots": [[{"chr": "1", "annots":[["OMIM:606777,Dominant,Have the Disease", 17924863, 0, 0], ["OMIM:256800,Recessive,Carrier of the Disease", 156848968, 0, 2],["GeneID:F5,Have the Disease:Familial exudative vitreoretinopathy", 169519049, 0, 0],["OMIM:274270,Recessive,Carrier of the Disease", 98348885, 0, 2]]}]]}
+{"keys": ["name", "start", "length", "trackIndex"], "annots": [
+    [{"chr": "1", "annots":[
+        ["rs", 23899817, 0, 1]]}
+    ]]}
     
