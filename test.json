@@ -1,12 +1,20 @@
 {"keys": ["name", "start", "length", "trackIndex"], "annots": [
     {"chr": "1", "annots": [["OMIM:606777,Dominant,Have the Disease", 43394887, 0,0], 
-        ["OMIM:256800,Recessive,Carrier of the Disease", 156848968, 0, 2], 
+        ["OMIM:256800,Recessive,Carrier of the Disease", 156848968, 0, 1], 
         ["GeneID:F5,Have the Disease:Familial exudative vitreoretinopathy", 169519049, 0, 0], 
-        ["OMIM:274270,Recessive,Carrier of the Disease", 98348885, 0, 2]]},
+        ["OMIM:274270,Recessive,Carrier of the Disease", 98348885, 0, 1]]},
     {"chr": "2", "annots":[
        ["OMIM:601071,Recessive,Carrier of the Disease", 26699126, 0, 1],
        ["OMIM:601071,Recessive,Carrier of the Disease", 136590746, 0, 1],
        ["OMIM:259900,Recessive,Carrier of the Disease", 241814550, 0, 1],
-       ["OMIM:213700,Recessive,Carrier of the Disease", 219677301, 0, 1]]}
+       ["OMIM:213700,Recessive,Carrier of the Disease", 219677301, 0, 1]]},
+    {"chr": "3", "annots":[
+       ["OMIM:601198,Dominant,Have the Disease", 122003832, 0, 0]]},
+    {"chr": "4", "annots":[
+       ["OMIM:612423,Recessive,Carrier of the Disease", 187158034, 0, 1]]},
+    {"chr": "5", "annots":[
+       ["OMIM:606574,Recessive,Carrier of the Disease", 33954511, 0, 1],
+       ["OMIM:608233,Recessive,Carrier of the Disease", 77425028, 0, 1],
+    ]}
 
 ]}
