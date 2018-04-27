@@ -22,7 +22,38 @@
     {"chr": "8", "annots":[
        ["OMIM:216550,Recessive,Carrier of the Disease", 100883799, 0, 1]]},
     {"chr": "9", "annots":[
-       ["Endometriosis,synonymous_variant", 7174673, 0, 0],
-       ["OMIM:216550,Menarche_(age_at_onset),missense_variant", 7174673, 0, 0]]}
-
+       ["Endometriosis,synonymous_variant", 6253571, 0, 1],
+       ["OMIM:216550,Menarche_(age_at_onset),missense_variant", 7174673, 0, 1]]},
+    {"chr": "11", "annots":[
+       ["Myeloid_white_cell_count,Sum_basophil_neutrophil_counts,missense_variant", 308314, 0, 1],
+       ["Mean_platelet_volume,synonymous_variant", 193863, 0, 1],
+       ["Lymphocyte_percentage_of_white_cells,missense_variant", 308314, 0, 1], 
+       ["GeneID:TYR,Oculocutaneous albinism,missense_variant", 89017961, 0, 1],   
+       ["Omim:614074,Recessive,Carrier of the Disease", 18327684, 0, 1],   
+       ["GeneID:IL10RA,Autosomal recessive early-onset inflammatory bowel disease", 117869670, 0, 1],   
+       ["Systemic_lupus_erythematosus,missense_variant", 614318, 0, 1]]},
+    {"chr": "13", "annots":[
+       ["Omim:278780,Recessive,Carrier of the Disease", 103527930, 0, 1],
+       ["Omim:270550,Recessive,Carrier of the Disease", 23909142, 0, 1],
+       ["Omim:256731,Recessive,Carrier of the Disease", 77574983, 0, 1]]},
+     {"chr": "15", "annots":[
+       ["OMIM:253600,Recessive,Carrier of the Disease", 42680058, 0, 1]]},
+     {"chr": "16", "annots":[
+       ["Omim:264800,Recessive,Carrier of the Disease", 16278869, 0, 1],
+       ["Omim:264800,Recessive,Carrier of the Disease", 16278863, 0, 1],
+       ["Omim:264800,Recessive,Carrier of the Disease", 16271357, 0, 1], 
+       ["GeneID:BBS2,Bardet-Biedl syndrome", 56548501, 0, 1], 
+       ["OMIM:264800,Recessive,Carrier of the Disease", 16281007, 0, 1], 
+       ["Omim:264800,Recessive,Carrier of the Disease", 16271409, 0, 1]]},
+     {"chr": "17", "annots":[
+       ["OMIM:271900,Recessive,Carrier of the Disease", 3397702, 0, 1],
+       ["OMIM:271900,Recessive,Carrier of the Disease", 78184477, 0, 1],
+       ["OMIM:162200,Dominant,Have the Disease", 29553485, 0, 0]]},
+    {"chr": "19", "annots":[
+       ["OMIM:143890,Dominant,Have the Disease", 11233941, 0, 0],
+       ["OMIM:143890,Dominant,Have the Disease", 11224265, 0, 0]]},
+     {"chr": "20", "annots":[
+       ["OMIM:217400,Recessive,Carrier of the Disease", 3214819, 0, 0]]},
+     {"chr": "22", "annots":[
+       ["OMIM:217400,Dominant,Have the Disease", 38369976, 0, 0]]}
 ]}
