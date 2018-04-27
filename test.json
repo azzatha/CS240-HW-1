@@ -15,5 +15,14 @@
     {"chr": "5", "annots":[
        ["OMIM:606574,Recessive,Carrier of the Disease", 33954511, 0, 1],
        ["OMIM:608233,Recessive,Carrier of the Disease", 77425028, 0, 1]]}
+    {"chr": "6", "annots":[
+       ["OMIM:610743,Recessive,Carrier of the Disease", 152527320, 0, 1]]},
+    {"chr": "7", "annots":[
+       ["OMIM:115000,Dominant,Have the Disease", 150648198, 0, 0]]},
+    {"chr": "8", "annots":[
+       ["OMIM:216550,Recessive,Carrier of the Disease", 100883799, 0, 1]]},
+    {"chr": "9", "annots":[
+       ["Endometriosis,synonymous_variant", 7174673, 0, 0],
+       ["OMIM:216550,Menarche_(age_at_onset),missense_variant", 7174673, 0, 0]]}
 
 ]}
