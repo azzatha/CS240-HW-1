@@ -53,7 +53,7 @@
        ["OMIM:143890,Dominant,Have the Disease", 11233941, 0, 0],
        ["OMIM:143890,Dominant,Have the Disease", 11224265, 0, 0]]},
      {"chr": "20", "annots":[
-       ["OMIM:217400,Recessive,Carrier of the Disease", 3214819, 0, 0]]},
+       ["OMIM:217400,Recessive,Carrier of the Disease", 3214819, 0, 1]]},
      {"chr": "22", "annots":[
        ["OMIM:217400,Dominant,Have the Disease", 38369976, 0, 0]]}
 ]}
