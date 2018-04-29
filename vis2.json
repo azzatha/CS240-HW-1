@@ -7,7 +7,7 @@
     ], 
     "annots": [
         {
-            "chr": 9, 
+            "chr": "9", 
             "annots": [
                 [
                     "<a target=\"_blank\" href=\"https://www.omim.org/entry/601198\">OMIM=601198,MOI=Dominant,CVS=Have_the_Disease</a>", 
