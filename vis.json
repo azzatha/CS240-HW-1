@@ -10,13 +10,13 @@
             "chr": "1", 
             "annots": [
                 [
-                    "<a target=\"_blank\" href=\"https//www.omim.org/entry/606777\">OMIM=606777,MOI=Dominant,CVS=Have_the_Disease</a>", 
+                    "<a target=\"_blank\"href=\"https//www.omim.org/entry/606777\">OMIM=606777,MOI=Dominant,CVS=Have_the_Disease</a>", 
                     43394887, 
                     0, 
                     0
                 ], 
                 [
-                    "<a target=\"_blank\" href=\"https//www.omim.org/entry/614074\">OMIM=614074,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    "<a target=\"_blank\"href=\"https//www.omim.org/entry/614074\">OMIM=614074,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
                     18327684, 
                     0, 
                     1
