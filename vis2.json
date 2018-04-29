@@ -1,0 +1,467 @@
+{
+    "keys": [
+        "name", 
+        "start", 
+        "length", 
+        "trackIndex"
+    ], 
+    "annots": [
+        {
+            "chr": 1, 
+            "annots": []
+        }, 
+        {
+            "chr": 1, 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/606777\">OMIM=606777,MOI=Dominant,CVS=Have_the_Disease</a>", 
+                    43394887, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/256800\">OMIM=256800,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    156848968, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">GeneID=F5,DN=Familial_exudative_vitreoretinopathy</a>", 
+                    169519049, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/274270\">OMIM=274270,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    98348885, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": 1, 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/601071\">OMIM=601071,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    26699126, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/259900\">OMIM=259900,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    241814550, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/213700\">OMIM=213700,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    219677301, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": 9, 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/601198\">OMIM=601198,MOI=Dominant,CVS=Have_the_Disease</a>", 
+                    122003832, 
+                    0, 
+                    0
+                ]
+            ]
+        }, 
+        {
+            "chr": 9, 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/612423\">OMIM=612423,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    187158034, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": 11, 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/606574\">OMIM=606574,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    33954511, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/608233\">OMIM=608233,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    77425028, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": 11, 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/610743\">OMIM=610743,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    152527320, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": 11, 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/115000\">OMIM=115000,MOI=Dominant,CVS=Have_the_Disease</a>", 
+                    150648198, 
+                    0, 
+                    0
+                ]
+            ]
+        }, 
+        {
+            "chr": 11, 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/216550\">OMIM=216550,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    100883799, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": 11, 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"-\">GDN=Menarche_(age_at_onset),GC=missense_variant</a>", 
+                    7174673, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">GDN=Endometriosis,GC=synonymous_variant</a>", 
+                    6253571, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": 11, 
+            "annots": []
+        }, 
+        {
+            "chr": 11, 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"-\">GDN=Myeloid_white_cell_count,GC=missense_variant</a>", 
+                    308314, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">GDN=Sum_neutrophil_eosinophil_counts,GC=missense_variant</a>", 
+                    308314, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">GDN=Sum_basophil_neutrophil_counts,GC=missense_variant</a>", 
+                    308314, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">GDN=Granulocyte_count,GC=missense_variant</a>", 
+                    308314, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">GDN=Neutrophil_count,GC=missense_variant</a>", 
+                    308314, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">GDN=Systemic_lupus_erythematosus,GC=missense_variant</a>", 
+                    614318, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">GDN=Mean_platelet_volume,GC=synonymous_variant</a>", 
+                    193863, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">GDN=Lymphocyte_percentage_of_white_cells,GC=missense_variant</a>", 
+                    308314, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614074\">OMIM=614074,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    18327684, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": 11, 
+            "annots": []
+        }, 
+        {
+            "chr": 1, 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/256731\">OMIM=256731,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    77574983, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/256731\">OMIM=256731,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    77574983, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/256731\">OMIM=256731,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    77574983, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/256731\">OMIM=256731,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    77574983, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/278780\">OMIM=278780,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    103527930, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/270550\">OMIM=270550,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    23909142, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": 2, 
+            "annots": []
+        }, 
+        {
+            "chr": 2, 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/253600\">OMIM=253600,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    42680058, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": 2, 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">OMIM=264800,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    16278869, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">OMIM=264800,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    16278863, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">OMIM=264800,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    16271409, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">OMIM=264800,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    16271357, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">OMIM=264800,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    16281007, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": 3, 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/271900\">OMIM=271900,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    3397702, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/162200\">OMIM=162200,MOI=Dominant,CVS=Have_the_Disease</a>", 
+                    29553485, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/252900\">OMIM=252900,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    78184477, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": 4, 
+            "annots": []
+        }, 
+        {
+            "chr": 5, 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/143890\">OMIM=143890,MOI=Dominant,CVS=Have_the_Disease</a>", 
+                    11224265, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/143890\">OMIM=143890,MOI=Dominant,CVS=Have_the_Disease</a>", 
+                    11233941, 
+                    0, 
+                    0
+                ]
+            ]
+        }, 
+        {
+            "chr": 5, 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/217400\">OMIM=217400,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
+                    3214819, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": 6, 
+            "annots": []
+        }, 
+        {
+            "chr": 7, 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/613266\">OMIM=613266,MOI=Dominant,CVS=Have_the_Disease</a>", 
+                    38369976, 
+                    0, 
+                    0
+                ]
+            ]
+        }, 
+        {
+            "chr": 8, 
+            "annots": []
+        }, 
+        {
+            "chr": 11, 
+            "annots": []
+        }, 
+        {
+            "chr": 13, 
+            "annots": []
+        }, 
+        {
+            "chr": 13, 
+            "annots": []
+        }, 
+        {
+            "chr": 13, 
+            "annots": []
+        }, 
+        {
+            "chr": 13, 
+            "annots": []
+        }, 
+        {
+            "chr": 13, 
+            "annots": []
+        }, 
+        {
+            "chr": 13, 
+            "annots": []
+        }, 
+        {
+            "chr": 15, 
+            "annots": []
+        }, 
+        {
+            "chr": 16, 
+            "annots": []
+        }, 
+        {
+            "chr": 16, 
+            "annots": []
+        }, 
+        {
+            "chr": 16, 
+            "annots": []
+        }, 
+        {
+            "chr": 16, 
+            "annots": []
+        }, 
+        {
+            "chr": 16, 
+            "annots": []
+        }, 
+        {
+            "chr": 17, 
+            "annots": []
+        }, 
+        {
+            "chr": 17, 
+            "annots": []
+        }, 
+        {
+            "chr": 17, 
+            "annots": []
+        }, 
+        {
+            "chr": 19, 
+            "annots": []
+        }, 
+        {
+            "chr": 19, 
+            "annots": []
+        }, 
+        {
+            "chr": 20, 
+            "annots": []
+        }, 
+        {
+            "chr": 22, 
+            "annots": []
+        }
+    ]
+}
