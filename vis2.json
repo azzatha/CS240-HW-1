@@ -20,17 +20,6 @@
                     0
                 ]
             ]
-        }, 
-        {
-            "chr": 9, 
-            "annots": [
-                [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/612423\">OMIM=612423,MOI=Recessive,CVS=Carrier_of_the_Disease</a>", 
-                    187158034, 
-                    0, 
-                    1
-                ]
-            ]
         }
     ]
 }
