@@ -193,13 +193,7 @@
                     632922, 
                     0, 
                     1
-                ], 
-                [
-                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Spherical_equivalent_(joint_analysis_main_effects_and_education_interaction);GwasContext=intron_variant</a>", 
-                    286756, 
-                    0, 
-                    1
-                ], 
+                ],
                 [
                     "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Cognitive_performance;GwasContext=upstream_gene_variant</a>", 
                     315215, 
@@ -391,13 +385,7 @@
                     632348, 
                     0, 
                     1
-                ], 
-                [
-                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Alanine_aminotransferase_ALT_levels_after_remission_induction_therapy_in_actute_lymphoblastic_leukemia_ALL;GwasContext=intron_variant</a>", 
-                    177553847, 
-                    0, 
-                    1
-                ], 
+                ],
                 [
                     "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index;GwasContext=intergenic_variant</a>", 
                     624678, 
@@ -593,12 +581,6 @@
                 [
                     "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Blood_protein_levels;GwasContext=non_coding_transcript_exon_variant</a>", 
                     309097, 
-                    0, 
-                    1
-                ], 
-                [
-                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index_(joint_analysis_main_effects_and_physical_activity_interaction);GwasContext=intergenic_variant</a>", 
-                    622827, 
                     0, 
                     1
                 ], 
