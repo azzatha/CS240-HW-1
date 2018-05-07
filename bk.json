@@ -3127,6 +3127,29 @@
             ]
         },
         {
+            "chr": "21", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Platelet_distribution_width;GwasContext=intron_variant</a>", 
+                    14994501, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Corticobasal_degeneration;GwasContext=intron_variant</a>", 
+                    44704601, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/254090\">OMIM=254090;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    47545768, 
+                    0, 
+                    0
+                ]
+            ]
+        }, 
+        {
             "chr": "22", 
             "annots": [
                 [
