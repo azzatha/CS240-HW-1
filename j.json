@@ -2671,6 +2671,305 @@
                     1
                 ]
             ]
+        },
+        {
+            "chr": "17", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41244000, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41244936, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Postprandial_triglyceride_response_to_high_fat_diet_meal;GwasContext=intron_variant</a>", 
+                    75036224, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41244435, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41245237, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41235799, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=flecainide,mexiletine;Phenotypes=Myotonia_</a>", 
+                    63943846, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Rheumatoid_arthritis_(rheumatoid_factor_and/or_anti-cyclic_citrullinated_peptide_seropositive);GwasContext=intron_variant</a>", 
+                    4599900, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Rheumatoid_arthritis;GwasContext=intron_variant</a>", 
+                    4599900, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Metabolite_levels_(5-HIAA);GwasContext=intron_variant</a>", 
+                    2241899, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41245471, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Cognitive_function;GwasContext=missense_variant</a>", 
+                    7703404, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41223094, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41219804, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41220223, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41214209, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41219780, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41213893, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41222099, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41213996, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/607485\">OMIM=607485;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    42427630, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41213760, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/162200\">OMIM=162200;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    29663624, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/162200\">OMIM=162200;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    29661340, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/162200\">OMIM=162200;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    29663172, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/162200\">OMIM=162200;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    29662299, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/162200\">OMIM=162200;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    29661222, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/162200\">OMIM=162200;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    29527250, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/271900\">OMIM=271900;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    3397702, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41234470, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/162200\">OMIM=162200;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    29679246, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41222723, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41251646, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41250678, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41268206, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41267050, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41252626, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41252575, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41249094, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41201364, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41208703, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41250923, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41249363, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41251495, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41213626, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41206056, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41205941, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41222462, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41213660, 
+                    0, 
+                    0
+                ]
+            ]
         }
         ]
 }
