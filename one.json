@@ -291,6 +291,143 @@
                     1
                 ]
             ]
+        },
+        {
+            "chr": "4", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Response_to_amphetamines;GwasContext=upstream_gene_variant</a>", 
+                    54375414, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/615071\">OMIM=615071;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    113569135, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/612423\">OMIM=612423;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    187158034, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/606764\">OMIM=606764;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    55141055, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/616270\">OMIM=616270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    71466771, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/616270\">OMIM=616270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    71465800, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/616270\">OMIM=616270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    71467593, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/616270\">OMIM=616270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    71467443, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/616270\">OMIM=616270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    71466914, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/616270\">OMIM=616270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    71466783, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/616270\">OMIM=616270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    71467710, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/209900\">OMIM=209900;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    122750140, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/209900\">OMIM=209900;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    122750005, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=atenolol,hydrochlorothiazide,metoprolol;Phenotypes=Hypertension_</a>", 
+                    127735889, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Response_to_paliperidone_in_schizophrenia_(PANSS_score);GwasContext=intron_variant</a>", 
+                    49037941, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Colonoscopy-negative_controls_vs_population_controls;GwasContext=intron_variant</a>", 
+                    80565118, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Stroke_(ischemic);GwasContext=non_coding_transcript_exon_variant</a>", 
+                    110796911, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Incident_atrial_fibrillation;GwasContext=non_coding_transcript_exon_variant</a>", 
+                    110796911, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Serum_dimethylarginine_levels_(asymmetric/symetric_ratio);GwasContext=intron_variant</a>", 
+                    146438806, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Atrial_fibrillation;GwasContext=non_coding_transcript_exon_variant</a>", 
+                    110796911, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/616270\">OMIM=616270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    71465766, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/616270\">OMIM=616270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    71466227, 
+                    0, 
+                    1
+                ]
+            ]
         }
     ]
   }
