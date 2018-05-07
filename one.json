@@ -1990,7 +1990,7 @@
                 ]
             ]
         },
-         {
+        {
             "chr": "9", 
             "annots": [
                 [
@@ -2016,14 +2016,8 @@
                     34635598, 
                     0, 
                     1
-                ], 
-                [
-                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Granulocyte_percentage_of_myeloid_white_cells;GwasContext=regulatory_region_variant</a>", 
-                    4763176, 
-                    0, 
-                    1
                 ]
-                ]
-                }
+             ]
+         }
     ]
 }
