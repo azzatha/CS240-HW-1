@@ -1,0 +1,3211 @@
+{
+    "keys": [
+        "name", 
+        "start", 
+        "length", 
+        "trackIndex"
+    ], 
+    "annots": [
+        {
+            "chr": "1", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/608456\">OMIM=608456;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    45798555, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604772\">OMIM=604772;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    237495080, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/274270\">OMIM=274270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    98348885, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Platelet_distribution_width;GwasContext=intron_variant</a>", 
+                    62654001, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Oropharynx_cancer;GwasContext=3_prime_UTR_variant</a>", 
+                    110223001, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Platelet_distribution_width;GwasContext=intron_variant</a>", 
+                    62654662, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Platelet_distribution_width;GwasContext=intron_variant</a>", 
+                    62654737, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">didaGeneIDF5;didaDisease=Familial_exudative_vitreoretinopathy;GeneA=FZD4;GeneB=F5</a>", 
+                    169519049, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Cerebral_amyloid_deposition_in_APOEe4_non-carriers_(PET_imaging);GwasContext=intron_variant</a>", 
+                    112691790, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Cerebral_amyloid_deposition_in_APOEe4_non-carriers_(PET_imaging);GwasContext=intron_variant</a>", 
+                    112691801, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Asthma;GwasContext=intron_variant</a>", 
+                    158961355, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Self-rated_health;GwasContext=intron_variant</a>", 
+                    110223001, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Sleep_traits_(multi-trait_analysis);GwasContext=missense_variant</a>", 
+                    62113413, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Glomerular_filtration_rate_(creatinine);GwasContext=5_prime_UTR_variant</a>", 
+                    112691801, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Excessive_daytime_sleepiness;GwasContext=missense_variant</a>", 
+                    62113413, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity-related_traits;GwasContext=missense_variant</a>", 
+                    3752792, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Morning_vs._evening_chronotype;GwasContext=missense_variant</a>", 
+                    62113413, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=onotype;GwasContext=missense_variant</a>", 
+                    62113413, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hip_circumference_adjusted_for_BMI;GwasContext=synonymous_variant</a>", 
+                    112691790, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hip_circumference_adjusted_for_BMI;GwasContext=synonymous_variant</a>", 
+                    112691801, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Cannabis_use_(initiation);GwasContext=intergenic_variant</a>", 
+                    9094563, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Gut_microbiota_(functional_units);GwasContext=intron_variant</a>", 
+                    110223001, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=IgG_glycosylation;GwasContext=3_prime_UTR_variant</a>", 
+                    225402973, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Bronchopulmonary_dysplasia;GwasContext=intron_variant</a>", 
+                    243127239, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": "2", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index_(joint_analysis_main_effects_and_physical_activity_interaction);GwasContext=intergenic_variant</a>", 
+                    638144, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index_in_physically_active_individuals;GwasContext=intergenic_variant</a>", 
+                    622827, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index_in_physically_inactive_individuals;GwasContext=intergenic_variant</a>", 
+                    622827, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Uric_acid_levels;GwasContext=downstream_gene_variant</a>", 
+                    663483, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=radiotherapy;Phenotypes=Prostatic_Neoplasms_</a>", 
+                    159094354, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Breast_size;GwasContext=intergenic_variant</a>", 
+                    632922, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Spherical_equivalent_(joint_analysis_main_effects_and_education_interaction);GwasContext=intron_variant</a>", 
+                    286756, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Cognitive_performance;GwasContext=upstream_gene_variant</a>", 
+                    315215, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index;GwasContext=regulatory_region_variant</a>", 
+                    634905, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity;GwasContext=intergenic_variant</a>", 
+                    624034, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index;GwasContext=intergenic_variant</a>", 
+                    622827, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hip_circumference;GwasContext=intergenic_variant</a>", 
+                    635721, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Adverse_response_to_chemotherapy_(neutropenia/leucopenia)_(doxorubicin);GwasContext=intergenic_variant</a>", 
+                    773278, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Blood_protein_levels;GwasContext=intron_variant</a>", 
+                    239416, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Weight;GwasContext=intergenic_variant</a>", 
+                    644953, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index;GwasContext=intergenic_variant</a>", 
+                    644953, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=antidepressants;Phenotypes=Depressive_Disorder,_Major_</a>", 
+                    207534205, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=docetaxel,thalidomide;Phenotypes=Prostatic_Neoplasms_</a>", 
+                    108378354, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=valproic_acid;Phenotypes=Epilepsy_</a>", 
+                    233693042, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Bronchodilator_response_in_asthma;GwasContext=intron_variant</a>", 
+                    52749686, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Waist_circumference;GwasContext=intergenic_variant</a>", 
+                    635721, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=allopurinol,febuxostat;Phenotypes=Gout_</a>", 
+                    200604664, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index_(adult);GwasContext=intergenic_variant</a>", 
+                    633660, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Cerebrospinal_fluid_biomarker_levels;GwasContext=intron_variant</a>", 
+                    285471, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Menarche_(age_at_onset);GwasContext=intergenic_variant</a>", 
+                    614168, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Type_2_diabetes;GwasContext=intergenic_variant</a>", 
+                    622827, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Blood_protein_levels;GwasContext=missense_variant</a>", 
+                    272203, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index;GwasContext=intergenic_variant</a>", 
+                    632348, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Growth-regulated_protein_alpha_levels;GwasContext=intron_variant</a>", 
+                    106879557, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index;GwasContext=intergenic_variant</a>", 
+                    630075, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=BMI_(adjusted_for_smoking_behaviour);GwasContext=intergenic_variant</a>", 
+                    632348, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Menarche_(age_at_onset);GwasContext=intergenic_variant</a>", 
+                    613044, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Suicide_attempts_in_bipolar_disorder;GwasContext=intergenic_variant</a>", 
+                    112496, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index;GwasContext=intergenic_variant</a>", 
+                    622531, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index;GwasContext=intergenic_variant</a>", 
+                    621558, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index_(joint_analysis_main_effects_and_smoking_interaction);GwasContext=intergenic_variant</a>", 
+                    632348, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity-related_traits;GwasContext=intron_variant</a>", 
+                    679179, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=BMI_in_smokers;GwasContext=intergenic_variant</a>", 
+                    632348, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=BMI_in_non-smokers;GwasContext=intergenic_variant</a>", 
+                    632348, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Alanine_aminotransferase_(ALT)_levels_after_remission_induction_therapy_in_actute_lymphoblastic_leukemia_(ALL);GwasContext=intron_variant</a>", 
+                    177553847, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index;GwasContext=intergenic_variant</a>", 
+                    624678, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity_(early_onset_extreme);GwasContext=intergenic_variant</a>", 
+                    629244, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Heschl's_gyrus_morphology;GwasContext=intergenic_variant</a>", 
+                    594366, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index;GwasContext=intergenic_variant</a>", 
+                    629244, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Childhood_body_mass_index;GwasContext=intergenic_variant</a>", 
+                    632348, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    32373514, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    32290147, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    32373298, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    32372096, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    32339561, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    32339040, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    32290331, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/237900\">OMIM=237900;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    234667582, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/142335\">OMIM=142335;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    60720246, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index_in_physically_inactive_individuals;GwasContext=intergenic_variant</a>", 
+                    638144, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index;GwasContext=intergenic_variant</a>", 
+                    638144, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Mosquito_bite_size;GwasContext=intron_variant</a>", 
+                    61262134, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Blood_protein_levels;GwasContext=intron_variant</a>", 
+                    254215, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity-related_traits;GwasContext=intergenic_variant</a>", 
+                    204118831, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_fat_percentage;GwasContext=intergenic_variant</a>", 
+                    635721, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Mitochondrial_DNA_levels;GwasContext=intergenic_variant</a>", 
+                    184390, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Response_to_fenofibrate_(adiponectin_levels);GwasContext=downstream_gene_variant</a>", 
+                    663483, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    32378604, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    32381109, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    32381110, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    32373645, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Type_2_diabetes;GwasContext=intergenic_variant</a>", 
+                    646674, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity;GwasContext=intergenic_variant</a>", 
+                    646364, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Childhood_body_mass_index;GwasContext=intergenic_variant</a>", 
+                    647861, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/259900\">OMIM=259900;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    241816545, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/259900\">OMIM=259900;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    241816871, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/259900\">OMIM=259900;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    241817176, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Blood_protein_levels;GwasContext=non_coding_transcript_exon_variant</a>", 
+                    309097, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index_(joint_analysis_main_effects_and_physical_activity_interaction);GwasContext=intergenic_variant</a>", 
+                    622827, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/143890\">OMIM=143890;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    21266774, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/615188\">OMIM=615188;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    209010777, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/130050\">OMIM=130050;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    189860996, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/130050\">OMIM=130050;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    189861396, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/130050\">OMIM=130050;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    189862203, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/130050\">OMIM=130050;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    189860128, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    32289746, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    32338915, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    32290040, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614881\">OMIM=614881;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    220144260, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity_(early_onset_extreme);GwasContext=intergenic_variant</a>", 
+                    632028, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": "3", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614072\">OMIM=614072;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    148845355, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/615550\">OMIM=615550;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    23961762, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/127550\">OMIM=127550;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    169482335, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614072\">OMIM=614072;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    148845196, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/613581\">OMIM=613581;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    100986702, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/127550\">OMIM=127550;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    169483993, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/601198\">OMIM=601198;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    122003832, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/601198\">OMIM=601198;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    122003757, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614321\">OMIM=614321;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    8775661, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614072\">OMIM=614072;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    148848403, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Amyotrophic_lateral_sclerosis;GwasContext=intron_variant</a>", 
+                    131988253, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Amyotrophic_lateral_sclerosis_in_C9orf72_mutation_positive_individuals;GwasContext=intron_variant</a>", 
+                    131989091, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614072\">OMIM=614072;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    148846009, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Amyotrophic_lateral_sclerosis_in_C9orf72_mutation_positive_individuals;GwasContext=intron_variant</a>", 
+                    131988253, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1/FVC_ratio;GwasContext=intron_variant</a>", 
+                    128173147, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Amyotrophic_lateral_sclerosis;GwasContext=intron_variant</a>", 
+                    131988451, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Amyotrophic_lateral_sclerosis_in_C9orf72_mutation_positive_individuals;GwasContext=intron_variant</a>", 
+                    131988451, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Type_2_diabetes;GwasContext=intron_variant</a>", 
+                    186948673, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Triptolide_cytotoxicity;GwasContext=intergenic_variant</a>", 
+                    26869004, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Ulcerative_colitis;GwasContext=intron_variant</a>", 
+                    53027148, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1;GwasContext=intron_variant</a>", 
+                    128173147, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Amyotrophic_lateral_sclerosis;GwasContext=intron_variant</a>", 
+                    131989091, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": "4", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Response_to_amphetamines;GwasContext=upstream_gene_variant</a>", 
+                    54375414, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/615071\">OMIM=615071;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    113569135, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/612423\">OMIM=612423;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    187158034, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/606764\">OMIM=606764;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    55141055, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/616270\">OMIM=616270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    71466771, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/616270\">OMIM=616270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    71465800, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/616270\">OMIM=616270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    71467593, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/616270\">OMIM=616270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    71467443, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/616270\">OMIM=616270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    71466914, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/616270\">OMIM=616270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    71466783, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/616270\">OMIM=616270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    71467710, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/209900\">OMIM=209900;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    122750140, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/209900\">OMIM=209900;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    122750005, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=atenolol,hydrochlorothiazide,metoprolol;Phenotypes=Hypertension_</a>", 
+                    127735889, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Response_to_paliperidone_in_schizophrenia_(PANSS_score);GwasContext=intron_variant</a>", 
+                    49037941, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Colonoscopy-negative_controls_vs_population_controls;GwasContext=intron_variant</a>", 
+                    80565118, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Stroke_(ischemic);GwasContext=non_coding_transcript_exon_variant</a>", 
+                    110796911, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Incident_atrial_fibrillation;GwasContext=non_coding_transcript_exon_variant</a>", 
+                    110796911, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Serum_dimethylarginine_levels_(asymmetric/symetric_ratio);GwasContext=intron_variant</a>", 
+                    146438806, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Atrial_fibrillation;GwasContext=non_coding_transcript_exon_variant</a>", 
+                    110796911, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/616270\">OMIM=616270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    71465766, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/616270\">OMIM=616270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    71466227, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": "5", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/606574\">OMIM=606574;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    33954511, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/606574\">OMIM=606574;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    33951693, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Crohn's_disease;GwasContext=upstream_gene_variant</a>", 
+                    40414965, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/608233\">OMIM=608233;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    77425028, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Resistance_to_Mycobacterium_tuberculosis_in_HIV-positive_individuals_measured_by_a_negative_tuberculin_skin_test_(continuous);GwasContext=missense_variant</a>", 
+                    135825729, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Gut_microbiome_composition_(winter);GwasContext=intergenic_variant</a>", 
+                    2014989, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Red_blood_cell_count;GwasContext=intergenic_variant</a>", 
+                    34504277, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Fat_distribution_(HIV);GwasContext=intergenic_variant</a>", 
+                    180375027, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Resistance_to_Mycobacterium_tuberculosis_in_HIV-positive_individuals_measured_by_a_negative_tuberculin_skin_test_(dichotomous);GwasContext=missense_variant</a>", 
+                    135825729, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/261515\">OMIM=261515;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    118811533, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/262500\">OMIM=262500;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    42628311, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": "6", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/271980\">OMIM=271980;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    24522109, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Vitiligo;GwasContext=intron_variant</a>", 
+                    396321, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Macrophage_inflammatory_protein_1a_levels;GwasContext=intergenic_variant</a>", 
+                    380341, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hodgkin's_lymphoma;GwasContext=intron_variant</a>", 
+                    32460006, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hodgkin's_lymphoma;GwasContext=intron_variant</a>", 
+                    32459919, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Cystic_fibrosis_severity;GwasContext=intron_variant</a>", 
+                    32460006, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Nodular_sclerosis_Hodgkin_lymphoma;GwasContext=intron_variant</a>", 
+                    32460006, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/271980\">OMIM=271980;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    24522794, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Plasma_omega-6_polyunsaturated_fatty_acid_levels_(gamma-linolenic_acid);GwasContext=intron_variant</a>", 
+                    2837612, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Monocyte_percentage_of_white_cells;GwasContext=intergenic_variant</a>", 
+                    32616064, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/263200\">OMIM=263200;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    51924137, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/201910\">OMIM=201910;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    32006858, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/271980\">OMIM=271980;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    24523174, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/613225\">OMIM=613225;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    6320808, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Nodular_sclerosis_Hodgkin_lymphoma;GwasContext=intron_variant</a>", 
+                    32459919, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Tuberculosis;GwasContext=intron_variant</a>", 
+                    32460006, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Squamous_cell_carcinoma;GwasContext=intron_variant</a>", 
+                    32641081, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Lung_cancer;GwasContext=intron_variant</a>", 
+                    32460006, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Light_vs._dark_hair_color;GwasContext=regulatory_region_variant</a>", 
+                    422631, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Lung_cancer_in_ever_smokers;GwasContext=regulatory_region_variant</a>", 
+                    422631, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Systemic_juvenile_idiopathic_arthritis;GwasContext=intron_variant</a>", 
+                    74613569, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Cervical_cancer;GwasContext=intergenic_variant</a>", 
+                    32616064, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Plateletcrit;GwasContext=intron_variant</a>", 
+                    33583197, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Platelet_count;GwasContext=intron_variant</a>", 
+                    33583197, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Autism_spectrum_disorder_or_schizophrenia;GwasContext=intron_variant</a>", 
+                    32520273, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Iron_status_biomarkers_(iron_levels);GwasContext=non_coding_transcript_exon_variant</a>", 
+                    32663606, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1/FVC_ratio;GwasContext=intergenic_variant</a>", 
+                    103974497, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=onic_lymphocytic_leukemia;GwasContext=3_prime_UTR_variant</a>", 
+                    411064, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Freckles;GwasContext=intergenic_variant</a>", 
+                    466033, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Aging;GwasContext=intergenic_variant</a>", 
+                    858970, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Triglycerides;GwasContext=intron_variant</a>", 
+                    31297713, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Height;GwasContext=intron_variant</a>", 
+                    31297713, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Black_vs._blond_hair_color;GwasContext=intron_variant</a>", 
+                    542159, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Black_vs._red_hair_color;GwasContext=intron_variant</a>", 
+                    542159, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Rheumatoid_arthritis;GwasContext=downstream_gene_variant</a>", 
+                    32480579, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Systemic_lupus_erythematosus;GwasContext=intergenic_variant</a>", 
+                    32616064, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Cervical_cancer;GwasContext=intron_variant</a>", 
+                    32633026, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=onic_lymphocytic_leukemia;GwasContext=intergenic_variant</a>", 
+                    417727, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Brown_vs._non-brown_hair_color;GwasContext=regulatory_region_variant</a>", 
+                    422631, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hodgkin's_lymphoma;GwasContext=intron_variant</a>", 
+                    32461277, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Blond_vs_non-blond_hair_color;GwasContext=regulatory_region_variant</a>", 
+                    422631, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Nevirapine-induced_hypersensitivity_in_HIV;GwasContext=intron_variant</a>", 
+                    31350802, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Lung_cancer;GwasContext=intron_variant</a>", 
+                    32461277, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Ulcerative_colitis;GwasContext=intron_variant</a>", 
+                    32460006, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Ulcerative_colitis;GwasContext=intron_variant</a>", 
+                    32461277, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Antinuclear_antibody_levels;GwasContext=intron_variant</a>", 
+                    32460006, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Antinuclear_antibody_levels;GwasContext=intron_variant</a>", 
+                    32461277, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Cystic_fibrosis_severity;GwasContext=intron_variant</a>", 
+                    32461277, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Drug-induced_Stevens-Johnson_syndrome_or_toxic_epidermal_necrolysis_(SJS/TEN);GwasContext=intron_variant</a>", 
+                    31168676, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Type_2_diabetes;GwasContext=intron_variant</a>", 
+                    31168676, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Psoriasis;GwasContext=intron_variant</a>", 
+                    542416, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/615363\">OMIM=615363;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    151936677, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Overall_survival_in_serous_epithelial_ovarian_cancer_treated_with_paclitaxel_and_cisplatin;GwasContext=intergenic_variant</a>", 
+                    1492427, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Metabolite_levels_(Pyroglutamine);GwasContext=intergenic_variant</a>", 
+                    22709510, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Pneumonia;GwasContext=intron_variant</a>", 
+                    32460006, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Pneumonia;GwasContext=intron_variant</a>", 
+                    32461277, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Schizophrenia;GwasContext=intron_variant</a>", 
+                    64156964, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Lung_adenocarcinoma;GwasContext=3_prime_UTR_variant</a>", 
+                    410848, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Melanoma;GwasContext=regulatory_region_variant</a>", 
+                    421281, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/615363\">OMIM=615363;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    151948366, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Eosinophil_counts;GwasContext=intergenic_variant</a>", 
+                    32616064, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Tanning;GwasContext=intron_variant</a>", 
+                    396321, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Waist-to-hip_ratio_adjusted_for_BMI_in_active_individuals;GwasContext=intergenic_variant</a>", 
+                    32480579, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Waist-to-hip_ratio_adjusted_for_BMI_(joint_analysis_for_main_effect_and_physical_activity_interaction);GwasContext=intergenic_variant</a>", 
+                    32480579, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Progressive_supranuclear_palsy;GwasContext=intron_variant</a>", 
+                    396321, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Eye_color;GwasContext=intron_variant</a>", 
+                    396321, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Cardiac_Troponin-T_levels;GwasContext=intron_variant</a>", 
+                    137945548, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Tuberculosis;GwasContext=intron_variant</a>", 
+                    32461277, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Sum_eosinophil_basophil_counts;GwasContext=intergenic_variant</a>", 
+                    32616064, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Crohn's_disease;GwasContext=intergenic_variant</a>", 
+                    32616064, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hair_color;GwasContext=intron_variant</a>", 
+                    396321, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Ulcerative_colitis_or_Crohn's_disease;GwasContext=intergenic_variant</a>", 
+                    32616064, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Multiple_sclerosis;GwasContext=intergenic_variant</a>", 
+                    32616064, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Mosquito_bite_size;GwasContext=intron_variant</a>", 
+                    32461277, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Mosquito_bite_size;GwasContext=intron_variant</a>", 
+                    32460006, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=onic_lymphocytic_leukemia;GwasContext=downstream_gene_variant</a>", 
+                    412802, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Frontotemporal_dementia;GwasContext=intron_variant</a>", 
+                    32461277, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Frontotemporal_dementia;GwasContext=intron_variant</a>", 
+                    32460006, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Immunoglobulin_A;GwasContext=intergenic_variant</a>", 
+                    32616064, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Lymphoma;GwasContext=intron_variant</a>", 
+                    32461277, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Sunburns;GwasContext=intron_variant</a>", 
+                    396321, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Freckling;GwasContext=intron_variant</a>", 
+                    396321, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Breast_cancer;GwasContext=intergenic_variant</a>", 
+                    151631197, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Breast_size;GwasContext=intergenic_variant</a>", 
+                    151631197, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Black_vs._red_hair_color;GwasContext=intron_variant</a>", 
+                    396321, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Periodontitis;GwasContext=intron_variant</a>", 
+                    72863851, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Psoriasis;GwasContext=intron_variant</a>", 
+                    577820, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Eosinophil_percentage_of_white_cells;GwasContext=intron_variant</a>", 
+                    577820, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Eosinophil_counts;GwasContext=intron_variant</a>", 
+                    577820, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=High_light_scatter_reticulocyte_percentage_of_red_cells;GwasContext=intergenic_variant</a>", 
+                    31231989, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=High_light_scatter_reticulocyte_count;GwasContext=intergenic_variant</a>", 
+                    31231989, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Non-melanoma_skin_cancer;GwasContext=intron_variant</a>", 
+                    396321, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Sum_eosinophil_basophil_counts;GwasContext=intron_variant</a>", 
+                    577820, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Epstein_Barr_virus_nuclear_antigen_1_IgG_levels;GwasContext=intron_variant</a>", 
+                    32461277, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=onic_lymphocytic_leukemia;GwasContext=3_prime_UTR_variant</a>", 
+                    409119, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Eosinophil_percentage_of_white_cells;GwasContext=intergenic_variant</a>", 
+                    32616064, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Neutrophil_percentage_of_granulocytes;GwasContext=intron_variant</a>", 
+                    577820, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Cutaneous_squamous_cell_carcinoma;GwasContext=intron_variant</a>", 
+                    396321, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Squamous_cell_carcinoma;GwasContext=intron_variant</a>", 
+                    396321, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Facial_pigmentation;GwasContext=intron_variant</a>", 
+                    396321, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Male-pattern_baldness;GwasContext=intron_variant</a>", 
+                    396321, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Pit-and-Fissure_caries;GwasContext=intron_variant</a>", 
+                    577820, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Breast_cancer_(estrogen-receptor_negative);GwasContext=intergenic_variant</a>", 
+                    151631197, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Breast_Cancer_in_BRCA1_mutation_carriers;GwasContext=intergenic_variant</a>", 
+                    151631197, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=IgA_nephropathy;GwasContext=downstream_gene_variant</a>", 
+                    32457105, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Epstein_Barr_virus_nuclear_antigen_1_IgG_levels;GwasContext=intron_variant</a>", 
+                    32460006, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=allopurinol;Phenotypes=severe_cutaneous_adverse_reactions_</a>", 
+                    31125705, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=asparaginase;Phenotypes=Precursor_Cell_Lymphoblastic_Leukemia-Lymphoma_</a>", 
+                    32584325, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=asparaginase;Phenotypes=Precursor_Cell_Lymphoblastic_Leukemia-Lymphoma_</a>", 
+                    32584319, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=allopurinol;Phenotypes=Epidermal_Necrolysis,_Toxic,severe_cutaneous_adverse_reactions,Stevens-Johnson_Syndrome_</a>", 
+                    31168676, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=nevirapine;Phenotypes=HIV,HIV_Infections_</a>", 
+                    31285669, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Ulcerative_colitis;GwasContext=intergenic_variant</a>", 
+                    32616064, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=nevirapine;Phenotypes=HIV,HIV_Infections_</a>", 
+                    31285667, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Crohn's_disease;GwasContext=intergenic_variant</a>", 
+                    382559, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Lipoprotein_(a)_levels;GwasContext=intron_variant</a>", 
+                    158684381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Itch_intensity_from_mosquito_bite_adjusted_by_bite_size;GwasContext=intergenic_variant</a>", 
+                    32688288, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Plantar_warts;GwasContext=upstream_gene_variant</a>", 
+                    30361418, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Plantar_warts;GwasContext=intergenic_variant</a>", 
+                    32616064, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Itch_intensity_from_mosquito_bite_adjusted_by_bite_size;GwasContext=intergenic_variant</a>", 
+                    32616064, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Yeast_infection;GwasContext=intron_variant</a>", 
+                    32461277, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Yeast_infection;GwasContext=intron_variant</a>", 
+                    32460006, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Inflammatory_bowel_disease;GwasContext=intergenic_variant</a>", 
+                    382559, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Rheumatoid_arthritis;GwasContext=intron_variant</a>", 
+                    32460006, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Basal_cell_carcinoma;GwasContext=intron_variant</a>", 
+                    396321, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Skin_colour_saturation;GwasContext=intron_variant</a>", 
+                    396321, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Eosinophil_percentage_of_granulocytes;GwasContext=intron_variant</a>", 
+                    577820, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Monobrow;GwasContext=intron_variant</a>", 
+                    396321, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Skin_aging_(microtopography_measurement);GwasContext=intron_variant</a>", 
+                    396321, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Black_vs._blond_hair_color;GwasContext=intron_variant</a>", 
+                    396321, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hypothyroidism;GwasContext=upstream_gene_variant</a>", 
+                    32658715, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Protein_quantitative_trait_loci;GwasContext=intron_variant</a>", 
+                    31303939, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Waist-to-hip_ratio_adjusted_for_body_mass_index;GwasContext=intergenic_variant</a>", 
+                    32480579, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hair_greying;GwasContext=intron_variant</a>", 
+                    396321, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Giant_cell_arteritis;GwasContext=intron_variant</a>", 
+                    32460006, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Giant_cell_arteritis;GwasContext=intron_variant</a>", 
+                    32461277, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Lymphoma;GwasContext=intron_variant</a>", 
+                    32460006, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Rheumatoid_arthritis;GwasContext=intergenic_variant</a>", 
+                    426155, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": "7", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/115000\">OMIM=115000;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    150648198, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Diastolic_blood_pressure;GwasContext=splice_region_variant</a>", 
+                    27119517, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Alzheimer's_disease_in_APOE_e4-_carriers;GwasContext=intron_variant</a>", 
+                    82377, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=olanzapine;Phenotypes=Schizophrenia_</a>", 
+                    128242019, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1;GwasContext=intron_variant</a>", 
+                    100327451, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Systolic_blood_pressure;GwasContext=splice_region_variant</a>", 
+                    27119517, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Blood_pressure_traits_(multi-trait_analysis);GwasContext=splice_region_variant</a>", 
+                    27119517, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity-related_traits;GwasContext=intron_variant</a>", 
+                    70420951, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity-related_traits;GwasContext=intron_variant</a>", 
+                    100327451, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hypertension;GwasContext=splice_region_variant</a>", 
+                    27119517, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Number_of_common_colds;GwasContext=intergenic_variant</a>", 
+                    153026493, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": "8", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/214400\">OMIM=214400;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    75272219, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=bevacizumab,pemetrexed;Phenotypes=Carcinoma,_Non-Small-Cell_Lung_</a>", 
+                    63034946, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/214400\">OMIM=214400;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    75271167, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/214400\">OMIM=214400;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    75271059, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/262300\">OMIM=262300;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    87679303, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/214400\">OMIM=214400;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    75272019, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Interleukin-12p70_levels;GwasContext=intron_variant</a>", 
+                    39231401, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Adverse_response_to_chemotherapy_in_breast_cancer_(alopecia)_(cyclophosphamide+doxorubicin+/-5FU);GwasContext=intergenic_variant</a>", 
+                    5017638, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=IgG_glycosylation;GwasContext=intergenic_variant</a>", 
+                    12834362, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=methotrexate;Phenotypes=Arthritis,_Rheumatoid_</a>", 
+                    63034946, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Triglycerides;GwasContext=downstream_gene_variant</a>", 
+                    19970337, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Breast_cancer;GwasContext=intron_variant</a>", 
+                    100298198, 
+                    0, 
+                    1
+                ]
+            ]
+        },
+        {
+            "chr": "9", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/250250\">OMIM=250250;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    19970337, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/608594\">OMIM=608594;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    19970337, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/109400\">OMIM=109400;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    19970337, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614373\">OMIM=614373;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    19970337, 
+                    0, 
+                    1
+                ]
+             ]
+         },
+        {
+            "chr": "10", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/219150\">OMIM=219150;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    97373195, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/219150\">OMIM=219150;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    97373193, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/219150\">OMIM=219150;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    97372977, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/219150\">OMIM=219150;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    97372669, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Asthma_(childhood_onset);GwasContext=intron_variant</a>", 
+                    99095945, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index;GwasContext=intron_variant</a>", 
+                    102599593, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Loneliness;GwasContext=intron_variant</a>", 
+                    126120627, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/219150\">OMIM=219150;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    97373196, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/219150\">OMIM=219150;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    97372559, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity;GwasContext=intergenic_variant</a>", 
+                    16257952, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/613881\">OMIM=613881;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    121436362, 
+                    0, 
+                    0
+                ]
+            ]
+        }, 
+        {
+            "chr": "11", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/245349\">OMIM=245349;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    35013450, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Systemic_lupus_erythematosus;GwasContext=intron_variant</a>", 
+                    589564, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=cisplatin,cyclophosphamide;Phenotypes=Ovarian_Neoplasms_</a>", 
+                    67585220, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Red_cell_distribution_width;GwasContext=3_prime_UTR_variant</a>", 
+                    205198, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Visceral_adipose_tissue/subcutaneous_adipose_tissue_ratio;GwasContext=intergenic_variant</a>", 
+                    106625312, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Glycated_hemoglobin_levels;GwasContext=3_prime_UTR_variant</a>", 
+                    205198, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index;GwasContext=3_prime_UTR_variant</a>", 
+                    494662, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=dimethyl_fumarate;Phenotypes=Psoriasis_</a>", 
+                    67585220, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Mean_platelet_volume;GwasContext=synonymous_variant</a>", 
+                    193863, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=cyclophosphamide,epirubicin;Phenotypes=Breast_Neoplasms_</a>", 
+                    67585220, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Alzheimer's_disease_(late_onset);GwasContext=intron_variant</a>", 
+                    941941, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Platelet_count;GwasContext=5_prime_UTR_variant</a>", 
+                    308065, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/102200\">OMIM=102200;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    67253564, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/106100\">OMIM=106100;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    57368598, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/245349\">OMIM=245349;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    35011743, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/106100\">OMIM=106100;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    57368644, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Menarche_(age_at_onset);GwasContext=intron_variant</a>", 
+                    229977, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Breast_cancer;GwasContext=upstream_gene_variant</a>", 
+                    442472, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=cisplatin;Phenotypes=Medulloblastoma,Testicular_Neoplasms_</a>", 
+                    67585220, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=fluorouracil;Phenotypes=Rectal_Neoplasms_</a>", 
+                    67585220, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/102200\">OMIM=102200;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    67253673, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=ustekinumab;Phenotypes=Psoriasis_</a>", 
+                    126292952, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614074\">OMIM=614074;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    18327684, 
+                    0, 
+                    1
+                ]
+                ]
+        },
+        {
+            "chr": "12", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/261600\">OMIM=261600;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    103248463, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/613561\">OMIM=613561;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    32908237, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1;GwasContext=intergenic_variant</a>", 
+                    82139715, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1;GwasContext=intergenic_variant</a>", 
+                    109641162, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Gout;GwasContext=5_prime_UTR_variant</a>", 
+                    1631005, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Type_1_diabetes;GwasContext=splice_region_variant</a>", 
+                    9632761, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1/FVC_ratio_in_COPD;GwasContext=intron_variant</a>", 
+                    62109198, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Multiple_sclerosis;GwasContext=intron_variant</a>", 
+                    9632761, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity-related_traits;GwasContext=intergenic_variant</a>", 
+                    73694028, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Type_1_diabetes;GwasContext=upstream_gene_variant</a>", 
+                    9632761, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Facial_morphology_(factor_21,_depth_of_nasal_alae);GwasContext=intron_variant</a>", 
+                    118090052, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": "13", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=azathioprine,mercaptopurine;Phenotypes=Inflammatory_Bowel_Diseases,Precursor_Cell_Lymphoblastic_Leukemia-Lymphoma_</a>", 
+                    48045719, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Crohn's_disease;GwasContext=synonymous_variant</a>", 
+                    99254189, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Inflammatory_bowel_disease;GwasContext=synonymous_variant</a>", 
+                    99254189, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/256731\">OMIM=256731;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    77575137, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/256731\">OMIM=256731;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    77574983, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/612555\">OMIM=612555;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    32915005, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Ulcerative_colitis;GwasContext=synonymous_variant</a>", 
+                    99254189, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/278780\">OMIM=278780;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    103527930, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Response_to_thiopurine_in_inflammatory_bowel_disease_(leukopenia);GwasContext=missense_variant</a>", 
+                    48045719, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=montelukast;Phenotypes=Asthma_</a>", 
+                    40126485, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/612555\">OMIM=612555;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    32913055, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Facial_morphology_(factor_3,_length_of_philtrum);GwasContext=intergenic_variant</a>", 
+                    26697233, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=IgG_glycosylation;GwasContext=intergenic_variant</a>", 
+                    65637808, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Nasopharyngeal_carcinoma;GwasContext=intron_variant</a>", 
+                    23630601, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": "14", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1/FVC_ratio;GwasContext=intron_variant</a>", 
+                    92605807, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Autism_spectrum_disorder_or_schizophrenia;GwasContext=intron_variant</a>", 
+                    103798321, 
+                    0, 
+                    1
+                ]
+            ]
+        },
+        {
+            "chr": "15", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity-related_traits;GwasContext=intron_variant</a>", 
+                    24350604, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=onic_obstructive_pulmonary_disease_(moderate_to_severe);GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Serum_albumin_level;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Pulmonary_function;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Motion_sickness;GwasContext=intron_variant</a>", 
+                    95470914, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity-related_traits;GwasContext=intron_variant</a>", 
+                    24366065, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Red_cell_distribution_width;GwasContext=intron_variant</a>", 
+                    78273478, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Alanine_aminotransferase_(ALT)_levels_after_remission_induction_therapy_in_actute_lymphoblastic_leukemia_(ALL);GwasContext=intergenic_variant</a>", 
+                    96565598, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=onic_obstructive_pulmonary_disease_(severe);GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=onic_obstructive_pulmonary_disease;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Fasting_plasma_glucose;GwasContext=intron_variant</a>", 
+                    98715481, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/218000\">OMIM=218000;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    34528948, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/208085\">OMIM=208085;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    91557294, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/208085\">OMIM=208085;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    91558165, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/243500\">OMIM=243500;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    40703339, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/243500\">OMIM=243500;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    40703211, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=onic_bronchitis_and_chronic_obstructive_pulmonary_disease;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1/FVC_ratio;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Pediatric_bone_mineral_content_(hip);GwasContext=intron_variant</a>", 
+                    97702785, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1/FVC_ratio_in_COPD;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Pre_bronchodilator_FEV1/FVC_ratio;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Pre_bronchodilator_FEV1;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Emphysema_distribution_in_smoking;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=exemestane;Phenotypes=Breast_Neoplasms_</a>", 
+                    51202040, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=Drugs_used_in_nicotine_dependence,nicotine,varenicline;Phenotypes=Tobacco_Use_Disorder_</a>", 
+                    78573088, 
+                    0, 
+                    1
+                ]
+            ]
+        },
+        {
+            "chr": "16", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">OMIM=264800;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    16271357, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">OMIM=264800;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    16291858, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">OMIM=264800;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    16291871, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity-related_traits;GwasContext=intron_variant</a>", 
+                    27203663, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Schizophrenia;GwasContext=intergenic_variant</a>", 
+                    58647190, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=oseltamivir;Phenotypes=_</a>", 
+                    55796301, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=capecitabine;Phenotypes=Drug_Toxicity_</a>", 
+                    55796301, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=clopidogrel;Phenotypes=Constriction,_Pathologic,Ischemic_Attack,_Transient,Stroke_</a>", 
+                    55796301, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=Dabigatran;Phenotypes=Atrial_Fibrillation_</a>", 
+                    55796301, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">OMIM=264800;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    16243973, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=capecitabine;Phenotypes=Drug_Toxicity_</a>", 
+                    55761039, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Schizophrenia;GwasContext=intron_variant</a>", 
+                    13522627, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">didaGeneIDBBS2;didaDisease=Bardet-Biedl_syndrome;GeneA=BBS2;GeneB=MKKS</a>", 
+                    56548501, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Parkinson_disease_and_lewy_body_pathology;GwasContext=downstream_gene_variant</a>", 
+                    88862668, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Western_dietary_pattern;GwasContext=intergenic_variant</a>", 
+                    88212127, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Response_to_dabigatran_etexilate_treatment;GwasContext=intron_variant</a>", 
+                    55796301, 
+                    0, 
+                    1
+                ]
+            ]
+        },
+        {
+            "chr": "17", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41244000, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41244936, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Postprandial_triglyceride_response_to_high_fat_diet_meal;GwasContext=intron_variant</a>", 
+                    75036224, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41244435, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41245237, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41235799, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=flecainide,mexiletine;Phenotypes=Myotonia_</a>", 
+                    63943846, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Rheumatoid_arthritis_(rheumatoid_factor_and/or_anti-cyclic_citrullinated_peptide_seropositive);GwasContext=intron_variant</a>", 
+                    4599900, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Rheumatoid_arthritis;GwasContext=intron_variant</a>", 
+                    4599900, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Metabolite_levels_(5-HIAA);GwasContext=intron_variant</a>", 
+                    2241899, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41245471, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Cognitive_function;GwasContext=missense_variant</a>", 
+                    7703404, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41223094, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41219804, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41220223, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41214209, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41219780, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41213893, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41222099, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41213996, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/607485\">OMIM=607485;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    42427630, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41213760, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/162200\">OMIM=162200;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    29663624, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/162200\">OMIM=162200;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    29661340, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/162200\">OMIM=162200;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    29663172, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/162200\">OMIM=162200;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    29662299, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/162200\">OMIM=162200;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    29661222, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/162200\">OMIM=162200;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    29527250, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/271900\">OMIM=271900;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    3397702, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41234470, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/162200\">OMIM=162200;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    29679246, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41222723, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41251646, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41250678, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41268206, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41267050, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41252626, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41252575, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41249094, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41201364, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41208703, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41250923, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41249363, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41251495, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41213626, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41206056, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41205941, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41222462, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">OMIM=604370;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    41213660, 
+                    0, 
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "18", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614080\">OMIM=614080;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    59821843, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614080\">OMIM=614080;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    59824209, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614080\">OMIM=614080;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    59824490, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614080\">OMIM=614080;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    59821949, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614080\">OMIM=614080;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    59822468, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614080\">OMIM=614080;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    59823400, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614080\">OMIM=614080;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    59822319, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/608572\">OMIM=608572;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    77737397, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/608572\">OMIM=608572;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    77738025, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614080\">OMIM=614080;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    59823735, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614080\">OMIM=614080;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    59823537, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614080\">OMIM=614080;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    59823885, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Electroencephalogram_traits;GwasContext=intron_variant</a>", 
+                    618124, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Lobe_attachment_(rater-scored_or_self-reported);GwasContext=intron_variant</a>", 
+                    11503564, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Strep_throat;GwasContext=intron_variant</a>", 
+                    9719323, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Night_sleep_phenotypes;GwasContext=intron_variant</a>", 
+                    2176439, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=capecitabine;Phenotypes=Neoplasms_</a>", 
+                    683607, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Parental_extreme_longevity_(95_years_and_older);GwasContext=intron_variant</a>", 
+                    897090, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Testicular_germ_cell_tumor;GwasContext=intron_variant</a>", 
+                    649311, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=methotrexate;Phenotypes=Arthritis,_Rheumatoid_</a>", 
+                    659829, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Mean_corpuscular_volume;GwasContext=intron_variant</a>", 
+                    660441, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=capecitabine;Phenotypes=Colorectal_Neoplasms_</a>", 
+                    700687, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity-related_traits;GwasContext=intron_variant</a>", 
+                    355944, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Mean_corpuscular_hemoglobin;GwasContext=intron_variant</a>", 
+                    660441, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=PR_interval_in_Tripanosoma_cruzi_seropositivity;GwasContext=intron_variant</a>", 
+                    1366300, 
+                    0, 
+                    1
+                ]
+            ]
+        },
+        {
+            "chr": "20", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1/FVC_ratio;GwasContext=3_prime_UTR_variant</a>", 
+                    44350931, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": "21", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Platelet_distribution_width;GwasContext=intron_variant</a>", 
+                    14994501, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Corticobasal_degeneration;GwasContext=intron_variant</a>", 
+                    44704601, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/254090\">OMIM=254090;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    47545768, 
+                    0, 
+                    0
+                ]
+            ]
+        }, 
+        {
+            "chr": "22", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hematocrit;GwasContext=intron_variant</a>", 
+                    42717424, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hemoglobin_concentration;GwasContext=intron_variant</a>", 
+                    42717424, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Gut_microbiome_composition_(summer);GwasContext=synonymous_variant</a>", 
+                    24314401, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Red_blood_cell_count;GwasContext=intron_variant</a>", 
+                    42717424, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=Selective_serotonin_reuptake_inhibitors;Phenotypes=Depressive_Disorder,_Major_</a>", 
+                    19941507, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604004\">OMIM=604004;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    50518723, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/613266\">OMIM=613266;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    38369976, 
+                    0, 
+                    0
+                ]
+            ]
+        }
+        ]
+}
