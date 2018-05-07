@@ -1989,6 +1989,40 @@
                     1
                 ]
             ]
-        }
+        },
+         {
+            "chr": "9", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/250250\">OMIM=250250;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    35658020, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/608594\">OMIM=608594;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    139570617, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/109400\">OMIM=109400;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    98209594, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614373\">OMIM=614373;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    34635598, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Granulocyte_percentage_of_myeloid_white_cells;GwasContext=regulatory_region_variant</a>", 
+                    4763176, 
+                    0, 
+                    1
+                ]
+                }
     ]
 }
