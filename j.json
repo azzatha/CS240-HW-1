@@ -2570,6 +2570,107 @@
                     1
                 ]
             ]
+        },
+        {
+            "chr": "16", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">OMIM=264800;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    16271357, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">OMIM=264800;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    16291858, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">OMIM=264800;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    16291871, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity-related_traits;GwasContext=intron_variant</a>", 
+                    27203663, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Schizophrenia;GwasContext=intergenic_variant</a>", 
+                    58647190, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=oseltamivir;Phenotypes=_</a>", 
+                    55796301, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=capecitabine;Phenotypes=Drug_Toxicity_</a>", 
+                    55796301, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=clopidogrel;Phenotypes=Constriction,_Pathologic,Ischemic_Attack,_Transient,Stroke_</a>", 
+                    55796301, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=Dabigatran;Phenotypes=Atrial_Fibrillation_</a>", 
+                    55796301, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">OMIM=264800;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    16243973, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=capecitabine;Phenotypes=Drug_Toxicity_</a>", 
+                    55761039, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Schizophrenia;GwasContext=intron_variant</a>", 
+                    13522627, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">didaGeneIDBBS2;didaDisease=Bardet-Biedl_syndrome;GeneA=BBS2;GeneB=MKKS</a>", 
+                    56548501, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Parkinson_disease_and_lewy_body_pathology;GwasContext=downstream_gene_variant</a>", 
+                    88862668, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Western_dietary_pattern;GwasContext=intergenic_variant</a>", 
+                    88212127, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Response_to_dabigatran_etexilate_treatment;GwasContext=intron_variant</a>", 
+                    55796301, 
+                    0, 
+                    1
+                ]
+            ]
         }
         ]
 }
