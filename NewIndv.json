@@ -159,7 +159,7 @@
             "chr": "2", 
             "annots": [
                 [
-                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index_(joint_analysis_main_effects_and_physical_activity_interaction);GwasContext=intergenic_variant</a>", 
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Body_mass_index_joint_analysis_main_effects_and_physical_activity_interaction;GwasContext=intergenic_variant</a>", 
                     638144, 
                     0, 
                     1
