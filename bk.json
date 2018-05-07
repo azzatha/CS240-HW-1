@@ -3127,25 +3127,13 @@
             ]
         },
         {
-            "chr": "21", 
+            "chr": "20", 
             "annots": [
                 [
-                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Platelet_distribution_width;GwasContext=intron_variant</a>", 
-                    14994501, 
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1/FVC_ratio;GwasContext=3_prime_UTR_variant</a>", 
+                    44350931, 
                     0, 
                     1
-                ], 
-                [
-                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Corticobasal_degeneration;GwasContext=intron_variant</a>", 
-                    44704601, 
-                    0, 
-                    1
-                ], 
-                [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/254090\">OMIM=254090;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
-                    47545768, 
-                    0, 
-                    0
                 ]
             ]
         }, 
