@@ -4460,53 +4460,6 @@
                     0
                 ]
             ]
-        }, 
-        {
-            "chr": "22", 
-            "annots": [
-                [
-                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hematocrit;GwasContext=intron_variant</a>", 
-                    42717424, 
-                    0, 
-                    1
-                ], 
-                [
-                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hemoglobin_concentration;GwasContext=intron_variant</a>", 
-                    42717424, 
-                    0, 
-                    1
-                ], 
-                [
-                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Gut_microbiome_composition_(summer);GwasContext=synonymous_variant</a>", 
-                    24314401, 
-                    0, 
-                    1
-                ], 
-                [
-                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Red_blood_cell_count;GwasContext=intron_variant</a>", 
-                    42717424, 
-                    0, 
-                    1
-                ], 
-                [
-                    "<a target=\"_blank\" href=\"-\">PharmG=Selective_serotonin_reuptake_inhibitors;Phenotypes=Depressive_Disorder,_Major_</a>", 
-                    19941507, 
-                    0, 
-                    1
-                ], 
-                [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604004\">OMIM=604004;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
-                    50518723, 
-                    0, 
-                    1
-                ], 
-                [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/613266\">OMIM=613266;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
-                    38369976, 
-                    0, 
-                    0
-                ]
-            ]
         }
     ]
 }
