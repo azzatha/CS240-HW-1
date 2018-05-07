@@ -1,0 +1,296 @@
+{
+    "keys": [
+        "name", 
+        "start", 
+        "length", 
+        "trackIndex"
+    ], 
+    "annots": [
+        {
+            "chr": "1", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/608456\">OMIM=608456;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    45798555, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604772\">OMIM=604772;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    237495080, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/274270\">OMIM=274270;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    98348885, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Platelet_distribution_width;GwasContext=intron_variant</a>", 
+                    62654001, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Oropharynx_cancer;GwasContext=3_prime_UTR_variant</a>", 
+                    110223001, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Platelet_distribution_width;GwasContext=intron_variant</a>", 
+                    62654662, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Platelet_distribution_width;GwasContext=intron_variant</a>", 
+                    62654737, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">didaGeneIDF5;didaDisease=Familial_exudative_vitreoretinopathy;GeneA=FZD4;GeneB=F5</a>", 
+                    169519049, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Cerebral_amyloid_deposition_in_APOEe4_non-carriers_(PET_imaging);GwasContext=intron_variant</a>", 
+                    112691790, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Cerebral_amyloid_deposition_in_APOEe4_non-carriers_(PET_imaging);GwasContext=intron_variant</a>", 
+                    112691801, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Asthma;GwasContext=intron_variant</a>", 
+                    158961355, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Self-rated_health;GwasContext=intron_variant</a>", 
+                    110223001, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Sleep_traits_(multi-trait_analysis);GwasContext=missense_variant</a>", 
+                    62113413, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Glomerular_filtration_rate_(creatinine);GwasContext=5_prime_UTR_variant</a>", 
+                    112691801, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Excessive_daytime_sleepiness;GwasContext=missense_variant</a>", 
+                    62113413, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity-related_traits;GwasContext=missense_variant</a>", 
+                    3752792, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Morning_vs._evening_chronotype;GwasContext=missense_variant</a>", 
+                    62113413, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=onotype;GwasContext=missense_variant</a>", 
+                    62113413, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hip_circumference_adjusted_for_BMI;GwasContext=synonymous_variant</a>", 
+                    112691790, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hip_circumference_adjusted_for_BMI;GwasContext=synonymous_variant</a>", 
+                    112691801, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Cannabis_use_(initiation);GwasContext=intergenic_variant</a>", 
+                    9094563, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Gut_microbiota_(functional_units);GwasContext=intron_variant</a>", 
+                    110223001, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=IgG_glycosylation;GwasContext=3_prime_UTR_variant</a>", 
+                    225402973, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Bronchopulmonary_dysplasia;GwasContext=intron_variant</a>", 
+                    243127239, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+{
+            "chr": "3", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614072\">OMIM=614072;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    148845355, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/615550\">OMIM=615550;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    23961762, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/127550\">OMIM=127550;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    169482335, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614072\">OMIM=614072;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    148845196, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/613581\">OMIM=613581;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    100986702, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/127550\">OMIM=127550;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    169483993, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/601198\">OMIM=601198;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    122003832, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/601198\">OMIM=601198;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    122003757, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614321\">OMIM=614321;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    8775661, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614072\">OMIM=614072;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    148848403, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Amyotrophic_lateral_sclerosis;GwasContext=intron_variant</a>", 
+                    131988253, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Amyotrophic_lateral_sclerosis_in_C9orf72_mutation_positive_individuals;GwasContext=intron_variant</a>", 
+                    131989091, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614072\">OMIM=614072;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    148846009, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Amyotrophic_lateral_sclerosis_in_C9orf72_mutation_positive_individuals;GwasContext=intron_variant</a>", 
+                    131988253, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1/FVC_ratio;GwasContext=intron_variant</a>", 
+                    128173147, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Amyotrophic_lateral_sclerosis;GwasContext=intron_variant</a>", 
+                    131988451, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Amyotrophic_lateral_sclerosis_in_C9orf72_mutation_positive_individuals;GwasContext=intron_variant</a>", 
+                    131988451, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Type_2_diabetes;GwasContext=intron_variant</a>", 
+                    186948673, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Triptolide_cytotoxicity;GwasContext=intergenic_variant</a>", 
+                    26869004, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Ulcerative_colitis;GwasContext=intron_variant</a>", 
+                    53027148, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1;GwasContext=intron_variant</a>", 
+                    128173147, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Amyotrophic_lateral_sclerosis;GwasContext=intron_variant</a>", 
+                    131989091, 
+                    0, 
+                    1
+                ]
+            ]
+        }
+    ]
+  }
