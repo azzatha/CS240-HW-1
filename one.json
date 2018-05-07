@@ -1841,6 +1841,77 @@
                     1
                 ]
             ]
+        }, 
+        {
+            "chr": "7", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/115000\">OMIM=115000;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    150648198, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Diastolic_blood_pressure;GwasContext=splice_region_variant</a>", 
+                    27119517, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Alzheimer's_disease_in_APOE_e4-_carriers;GwasContext=intron_variant</a>", 
+                    82377, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=olanzapine;Phenotypes=Schizophrenia_</a>", 
+                    128242019, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1;GwasContext=intron_variant</a>", 
+                    100327451, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Systolic_blood_pressure;GwasContext=splice_region_variant</a>", 
+                    27119517, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Blood_pressure_traits_(multi-trait_analysis);GwasContext=splice_region_variant</a>", 
+                    27119517, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity-related_traits;GwasContext=intron_variant</a>", 
+                    70420951, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity-related_traits;GwasContext=intron_variant</a>", 
+                    100327451, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hypertension;GwasContext=splice_region_variant</a>", 
+                    27119517, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Number_of_common_colds;GwasContext=intergenic_variant</a>", 
+                    153026493, 
+                    0, 
+                    1
+                ]
+            ]
         }
     ]
 }
