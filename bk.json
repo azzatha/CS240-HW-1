@@ -3127,6 +3127,65 @@
             ]
         },
         {
+            "chr": "19", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity-related_traits;GwasContext=3_prime_UTR_variant</a>", 
+                    406934, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/262190\">OMIM=262190;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    7152404, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Telomere_length;GwasContext=non_coding_transcript_exon_variant</a>", 
+                    22176637, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/262190\">OMIM=262190;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    7151592, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/262190\">OMIM=262190;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    7151073, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/262190\">OMIM=262190;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    7152065, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/262190\">OMIM=262190;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    7151835, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/262190\">OMIM=262190;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    7151049, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/143890\">OMIM=143890;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    11218713, 
+                    0, 
+                    0
+                ]
+            ]
+        }, 
+        {
             "chr": "20", 
             "annots": [
                 [
@@ -3137,6 +3196,17 @@
                 ]
             ]
         }, 
+        {
+            "chr": "21", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1/FVC_ratio;GwasContext=3_prime_UTR_variant</a>", 
+                    44350931, 
+                    0, 
+                    1
+                ]
+            ]
+        },
         {
             "chr": "22", 
             "annots": [
