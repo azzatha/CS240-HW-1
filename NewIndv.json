@@ -393,7 +393,7 @@
                     1
                 ], 
                 [
-                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Alanine_aminotransferase_(ALT)_levels_after_remission_induction_therapy_in_actute_lymphoblastic_leukemia_(ALL);GwasContext=intron_variant</a>", 
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Alanine_aminotransferase_ALT_levels_after_remission_induction_therapy_in_actute_lymphoblastic_leukemia_ALL;GwasContext=intron_variant</a>", 
                     177553847, 
                     0, 
                     1
@@ -405,7 +405,7 @@
                     1
                 ], 
                 [
-                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity_(early_onset_extreme);GwasContext=intergenic_variant</a>", 
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity_early_onset_extreme;GwasContext=intergenic_variant</a>", 
                     629244, 
                     0, 
                     1
