@@ -3126,46 +3126,52 @@
                 ]
             ]
         },
-{
-            "chr": "19", 
+        {
+            "chr": "22", 
             "annots": [
                 [
-                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Non-small_cell_lung_cancer;GwasContext=upstream_gene_variant</a>", 
-                    1366300, 
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hematocrit;GwasContext=intron_variant</a>", 
+                    42717424, 
                     0, 
                     1
                 ], 
                 [
-                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Breast_cancer;GwasContext=intron_variant</a>", 
-                    55225201, 
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hemoglobin_concentration;GwasContext=intron_variant</a>", 
+                    42717424, 
                     0, 
                     1
                 ], 
                 [
-                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Breast_cancer;GwasContext=intron_variant</a>", 
-                    660441, 
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Gut_microbiome_composition_(summer);GwasContext=synonymous_variant</a>", 
+                    24314401, 
                     0, 
                     1
                 ], 
                 [
-                    "<a target=\"_blank\" href=\"-\">PharmG=escitalopram;Phenotypes=Depression_</a>", 
-                    6604445, 
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Red_blood_cell_count;GwasContext=intron_variant</a>", 
+                    42717424, 
                     0, 
                     1
                 ], 
                 [
-                    "<a 660441 =\"_blank\" href=\"-\">Gwas_DISEASE=Menarche_and_menopause_(age_at_onset);GwasContext=intron_variant</a>", 
-                    55228101, 
+                    "<a target=\"_blank\" href=\"-\">PharmG=Selective_serotonin_reuptake_inhibitors;Phenotypes=Depressive_Disorder,_Major_</a>", 
+                    19941507, 
                     0, 
                     1
                 ], 
-                
                 [
-                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=High_light_scatter_reticulocyte_count;GwasContext=intron_variant</a>", 
-                    898288, 
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604004\">OMIM=604004;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    50518723, 
                     0, 
                     1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/613266\">OMIM=613266;InhMode==Dominant;CVStatus=Have_the_Disease</a>", 
+                    38369976, 
+                    0, 
+                    0
                 ]
-}
+            ]
+        }
         ]
 }
