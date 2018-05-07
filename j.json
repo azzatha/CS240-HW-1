@@ -2409,6 +2409,167 @@
                     1
                 ]
             ]
+        },
+        {
+            "chr": "15", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity-related_traits;GwasContext=intron_variant</a>", 
+                    24350604, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=onic_obstructive_pulmonary_disease_(moderate_to_severe);GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Serum_albumin_level;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Pulmonary_function;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Motion_sickness;GwasContext=intron_variant</a>", 
+                    95470914, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Obesity-related_traits;GwasContext=intron_variant</a>", 
+                    24366065, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Red_cell_distribution_width;GwasContext=intron_variant</a>", 
+                    78273478, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Alanine_aminotransferase_(ALT)_levels_after_remission_induction_therapy_in_actute_lymphoblastic_leukemia_(ALL);GwasContext=intergenic_variant</a>", 
+                    96565598, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=onic_obstructive_pulmonary_disease_(severe);GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=onic_obstructive_pulmonary_disease;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Fasting_plasma_glucose;GwasContext=intron_variant</a>", 
+                    98715481, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/218000\">OMIM=218000;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    34528948, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/208085\">OMIM=208085;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    91557294, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/208085\">OMIM=208085;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    91558165, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/243500\">OMIM=243500;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    40703339, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/243500\">OMIM=243500;InhMode==Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    40703211, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=onic_bronchitis_and_chronic_obstructive_pulmonary_disease;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1/FVC_ratio;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Pediatric_bone_mineral_content_(hip);GwasContext=intron_variant</a>", 
+                    97702785, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1/FVC_ratio_in_COPD;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Pre_bronchodilator_FEV1/FVC_ratio;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Pre_bronchodilator_FEV1;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Emphysema_distribution_in_smoking;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=exemestane;Phenotypes=Breast_Neoplasms_</a>", 
+                    51202040, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Post_bronchodilator_FEV1;GwasContext=intron_variant</a>", 
+                    78606381, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=Drugs_used_in_nicotine_dependence,nicotine,varenicline;Phenotypes=Tobacco_Use_Disorder_</a>", 
+                    78573088, 
+                    0, 
+                    1
+                ]
+            ]
         }
         ]
 }
