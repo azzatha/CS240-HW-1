@@ -33,6 +33,52 @@
                     1
                 ]
             ]
+        },
+        {
+            "chr": "4", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/606764\">OMIM=606764;CV_Class=Have_the_Disease;Liklehood=100.0%</a>", 
+                    55141055, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/601198\">OMIM=601198;CV_Class=Have_the_Disease;Liklehood=49.0%</a>", 
+                    122003769, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": "5", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/606574\">OMIM=606574;CV_Class=Carrier_of_Disease;Liklehood=100.0%</a>", 
+                    33951693, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/608233\">OMIM=608233;CV_Class=Carrier_of_Disease;Liklehood=100.0%</a>", 
+                    77425028, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/261515\">OMIM=261515;CV_Class=Carrier_of_Disease;Liklehood=48.0%</a>", 
+                    118811533, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/612423\">OMIM=612423;CV_Class=Carrier_of_Disease;Liklehood=100.0%</a>", 
+                    187158034, 
+                    0, 
+                    0
+                ]
+            ]
         }
         
     ]
