@@ -22,6 +22,18 @@
                     1
                 ]
             ]
+        },
+        {
+            "chr": "2", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/130050\">OMIM=130050;CV_Class=Have_the_Disease;Liklehood=45.0%</a>", 
+                    189860458, 
+                    0, 
+                    1
+                ]
+            ]
         }
+        
     ]
 }
