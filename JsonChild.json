@@ -51,5 +51,24 @@
                 ]
             ]
         }
+        {
+            "chr": "6", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/263200\">OMIM=263200;CV_Class=Carrier_of_Disease;Liklehood=37.0%</a>", 
+                    51921703, 
+                    0, 
+                    1
+                ],
+
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/608233\">OMIM=608233;CV_Class=Carrier_of_Disease;Liklehood=100.0%</a>", 
+                    77425028, 
+                    0, 
+                    0
+                ]
+            ]
+        }
+        
     ]
 }
