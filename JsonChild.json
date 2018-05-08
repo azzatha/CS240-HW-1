@@ -52,6 +52,29 @@
             ]
         },
         {
+            "chr": "5", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/606574\">OMIM=606574;CV_Class=Carrier_of_Disease;Liklehood=100.0%</a>", 
+                    33951693, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/261515\">OMIM=261515;CV_Class=Carrier_of_Disease;Liklehood=48.0%</a>", 
+                    118811533, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/612423\">OMIM=612423;CV_Class=Carrier_of_Disease;Liklehood=100.0%</a>", 
+                    187158034, 
+                    0, 
+                    0
+                ]
+            ]
+        }, 
+        {
             "chr": "6", 
             "annots": [
                 [
