@@ -91,6 +91,97 @@
                     0
                 ]
             ]
+        },
+        {
+            "chr": "8", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/262300\">OMIM=262300;CV_Class=Carrier_of_Disease;Liklehood=59.0%</a>", 
+                    87679303, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": "9", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Menarche_(age_at_onset);Gwas_Context=missense_variant;gwasLiklehood=20%</a>", 
+                    7174673, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Endometriosis;Gwas_Context=synonymous_variant;Liklehood=10%</a>", 
+                    6253571, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Hyperactive-impulsive_symptoms;Gwas_Context=missense_variant;Liklehood=40%</a>", 
+                    1056959, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": "10", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=antidepressants;Phenotypes=Depressive_Disorder,Liklehood=30%</a>", 
+                    20753420, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": "11", 
+            "annots": []
+        }, 
+        {
+            "chr": "12", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"-\">PharmG=nevirapine;Phenotypes=HIV,HIV_Infections</a>", 
+                    31285667, 
+                    0, 
+                    1
+                ]
+            ]
+        }, 
+        {
+            "chr": "13", 
+            "annots": []
+        }, 
+        {
+            "chr": "14", 
+            "annots": []
+        }, 
+        {
+            "chr": "15", 
+            "annots": []
+        }, 
+        {
+            "chr": "16", 
+            "annots": []
+        }, 
+        {
+            "chr": "17", 
+            "annots": []
+        }, 
+        {
+            "chr": "18", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"-\">Gwas_DISEASE=Systemic_lupus_erythematosus;GwasContext=intron_variant,Liklehood=10%</a>", 
+                    589564, 
+                    0, 
+                    1
+                ]
+            ]
         }
         
     ]
