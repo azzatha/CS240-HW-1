@@ -59,8 +59,19 @@
                     33951693, 
                     0, 
                     0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/261515\">OMIM=261515;CV_Class=Carrier_of_Disease;Liklehood=48.0%</a>", 
+                    11881153, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/612423\">OMIM=612423;CV_Class=Carrier_of_Disease;Liklehood=100.0%</a>", 
+                    18715803, 
+                    0, 
+                    0
                 ]
-                
             ]
         }, 
         {
