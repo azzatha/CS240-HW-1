@@ -145,7 +145,7 @@
             "chr": "12", 
             "annots": [
                 [
-                    "<a target=\"_blank\" href=\"-\">PharmG=nevirapine;Phenotypes=HIV,HIV_Infections</a>", 
+                    "<a target=\"_blank\" href=\"-\">PharmG=nevirapine;Phenotypes=HIV,HIV_Infections,Liklehood=14%</a>", 
                     31285667, 
                     0, 
                     1
